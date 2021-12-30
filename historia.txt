@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hola me llamo danny tengo 35
 
 Ahora busco la forma de mejorar el master y añadirle varios cambios
+=======
+hola me llamo danny tengo 35 y estudio git y esto es un agregado adicional a la cabecera
+>>>>>>> cabecera
